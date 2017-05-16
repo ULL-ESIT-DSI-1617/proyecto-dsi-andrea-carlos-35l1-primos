@@ -1,16 +1,17 @@
 {
   "name": "@ull-andrea-carlos/primos",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha",
-    "doc": "documentation build lib/Primos.js -f html -o docs"
+    "doc": "documentation build lib/Primos.js -f html -o docs",
+    "act": "npm install --save @ull-andrea-carlos/secuencia"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ull-andrea-carlos/secuencia": "^1.0.0",
+    "@ull-andrea-carlos/secuencia": "^1.0.2",
     "mocha": "^3.4.1",
     "should": "^11.2.1"
   }

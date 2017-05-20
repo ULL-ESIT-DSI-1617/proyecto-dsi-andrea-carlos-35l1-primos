@@ -1,5 +1,7 @@
 # Proyecto DSI
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-primos.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/proyecto-dsi-andrea-carlos-35l1-primos)
+
 ## Modulo Primos
 
 Este módulo proporciona una nueva secuencia de números, conocida como números Primos.
